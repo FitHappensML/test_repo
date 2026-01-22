@@ -1,0 +1,39 @@
+{
+    "messages": [
+        {
+            "id": "Targeted_Cohort_Beta",
+            "target_cohorts": [
+                0,
+                1,
+                2
+            ],
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2030-01-01T00:00:00",
+            "title": "🧪 Beta Invite",
+            "text": "You are selected for the beta program.",
+            "action_text": "Join Beta",
+            "action_url": "https://example.com/beta",
+            "variant": "info"
+        },
+        {
+            "id": "Expired_Message_Example",
+            "start_date": "2020-01-01T00:00:00",
+            "end_date": "2021-01-01T00:00:00",
+            "title": "Old News",
+            "text": "This message should never be seen.",
+            "action_text": "Ignore",
+            "action_url": "#",
+            "variant": "info"
+        },
+        {
+            "id": "Future_Message_Example",
+            "start_date": "2030-01-01T00:00:00",
+            "end_date": "2040-01-01T00:00:00",
+            "title": "Future Tech",
+            "text": "This message is from the future.",
+            "action_text": "Wait",
+            "action_url": "#",
+            "variant": "info"
+        }
+    ]
+}
