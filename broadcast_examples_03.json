@@ -8,7 +8,7 @@
             "text": "Please update your dependencies immediately.",
             "action_text": "Fix Now",
             "action_url": "https://github.com/FitHappensML",
-            "variant": "alert"
+            "variant": "info"
         },
         {
             "id": "Expired_Message_Example",
@@ -33,3 +33,4 @@
     ]
 
 }
+
