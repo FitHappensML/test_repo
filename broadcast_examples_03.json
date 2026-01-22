@@ -1,6 +1,16 @@
 {
     "messages": [
         {
+            "id": "Critical_Alert",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2030-01-01T00:00:00",
+            "title": "⚠️ Security Alert",
+            "text": "Please update your dependencies immediately.",
+            "action_text": "Fix Now",
+            "action_url": "https://github.com/FitHappensML",
+            "variant": "alert"
+        },
+        {
             "id": "Expired_Message_Example",
             "start_date": "2020-01-01T00:00:00",
             "end_date": "2021-01-01T00:00:00",
@@ -21,4 +31,5 @@
             "variant": "info"
         }
     ]
+
 }
